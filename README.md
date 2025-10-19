@@ -31,15 +31,15 @@ This documentation provides a solid foundation in circuit simulation using Ngspi
 
 ## Day-wise Folders:
 
-- [Day 1: MOSFET Behaviour]()
+- [Day 1: MOSFET Behaviour](https://github.com/navneetprasad1311/vsd-soc-pgrm-w4/tree/main/Day1)
 
-- [Day 2: Threshold Voltage Extraction & Velocity Saturation]()
+- [Day 2: Threshold Voltage Extraction & Velocity Saturation](https://github.com/navneetprasad1311/vsd-soc-pgrm-w4/tree/main/Day2)
 
-- [Day 3: CMOS Inverter: Voltage Transfer Characteristic (VTC) & Transient Behavior]()
+- [Day 3: CMOS Inverter: Voltage Transfer Characteristic (VTC) & Transient Behavior](https://github.com/navneetprasad1311/vsd-soc-pgrm-w4/tree/main/Day3)
 
-- [Day 4: Noise Margin / Robustness Analysis]()
+- [Day 4: Noise Margin / Robustness Analysis](https://github.com/navneetprasad1311/vsd-soc-pgrm-w4/tree/main/Day4)
 
-- [Day 5: Power-Supply and Device Variation Studies]()
+- [Day 5: Power-Supply and Device Variation Studies](https://github.com/navneetprasad1311/vsd-soc-pgrm-w4/tree/main/Day5)
 
 ---
 
