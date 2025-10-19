@@ -2,7 +2,7 @@
 
 `12/10/2025` to `18/10/2025`
 
-This documentation provides a solid foundation in circuit simulation using Ngspice, covering DC, AC, and transient analyses. It offers hands-on guidance for writing and running SPICE netlists, interpreting results, and verifying analog and digital circuit behavior.
+This documentation provides a solid foundation in circuit simulation using Ngspice, covering DC, and transient analyses. It offers hands-on guidance for writing and running SPICE netlists, interpreting results, and verifying analog and digital circuit behavior.
 
 ---
 
@@ -17,9 +17,29 @@ This documentation provides a solid foundation in circuit simulation using Ngspi
 
 ## Objectives
 
+- **Understand MOSFET Fundamentals:** Learn the operation, characteristics, and parameters of MOSFETs, including I–V behavior, threshold voltage, and velocity saturation effects.  
+
+- **Analyze CMOS Inverter Performance:** Study Voltage Transfer Characteristics (VTC) and transient response to understand switching behavior, gain, and propagation delays.  
+
+- **Evaluate Noise Margins and Robustness:** Determine safe HIGH and LOW logic levels, compute noise margins, and assess the inverter’s resilience to voltage fluctuations and noise.  
+
+- **Investigate Supply and Device Variations:** Examine the impact of V_DD changes and transistor sizing (W/L ratios) on VTC, switching threshold, noise margins, and timing, ensuring robust circuit operation across PVT corners.  
+
+- **Develop Practical Design Insights:** Connect device-level behavior to circuit-level performance, enabling reliable, high-speed, and noise-tolerant digital design.
+
 ---
 
 ## Day-wise Folders:
+
+- [Day 1: MOSFET Behaviour]()
+
+- [Day 2: Threshold Voltage Extraction & Velocity Saturation]()
+
+- [Day 3: CMOS Inverter: Voltage Transfer Characteristic (VTC) & Transient Behavior]()
+
+- [Day 4: Noise Margin / Robustness Analysis]()
+
+- [Day 5: Power-Supply and Device Variation Studies]()
 
 ---
 
