@@ -2,7 +2,7 @@
 
 `12/10/2025` to `18/10/2025`
 
-This documentation provides a solid foundation in circuit simulation using Ngspice, covering DC, and transient analyses. It offers hands-on guidance for writing and running SPICE netlists, interpreting results, and verifying analog and digital circuit behavior.
+This documentation provides labs in circuit simulation using Ngspice, covering DC, and transient analyses. It offers observations of running SPICE netlists, interpreting results, and verifying analog and digital circuit behavior.
 
 ---
 
