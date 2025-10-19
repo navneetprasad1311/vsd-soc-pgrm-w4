@@ -9,7 +9,7 @@ This documentation provides a solid foundation in circuit simulation using Ngspi
 ## Table of Contents
   
 1. [Objectives](#objectives)  
-2. [Task-wise Folders](#task-wise-folders)
+2. [Day-wise Folders](#day-wise-folders)
 3. [Acknowledgements](#acknowledgements)  
 4. [Contributor](#contributor)
 
@@ -19,7 +19,7 @@ This documentation provides a solid foundation in circuit simulation using Ngspi
 
 ---
 
-## Task-wise Folders:
+## Day-wise Folders:
 
 ---
 
